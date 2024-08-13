@@ -1,0 +1,6 @@
+Tugas :
+
+Soal 1:Deklarasi dan penampilan  variable
+1.Dekalarasikan tiga variable $name,$age dan $hobi
+2.Isi variable tersebut dengan nama lengkap,usia,da hobi anda 
+3.Tampilkan nilai dari  masing masing variable tersebut menggunakan perintah echo
